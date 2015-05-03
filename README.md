@@ -32,10 +32,30 @@ A curated list of xAPI resources
 * xAPI Statement Validator
   * http://xapi-validator.elasticbeanstalk.com/
 * ADL Statement Viewer
-  * https://github.com/adlnet/xapi-statement-viewer
   * http://adlnet.github.io/xapi-statement-viewer
 * ADL xAPI Labs
-   * https://github.com/adlnet/xapi-lab
-  http://adlnet.github.io/xapi-lab
+   * http://adlnet.github.io/xapi-lab
+* xAPI Statement Builder
+  * http://adlnet.github.io/xapi-canteen/
+* SCROM to xAPI Wrapper
+  * https://github.com/adlnet/SCORM-to-xAPI-Wrapper
+
+## xAPI Verbs
+* https://github.com/adlnet/xAPIVerbs
 
 ## SDKs
+### Javascript
+* https://github.com/adlnet/xAPIWrapper
+* http://rusticisoftware.github.io/TinCanJS/
+
+### Java
+* https://github.com/adlnet/jxapi
+* http://rusticisoftware.github.io/TinCanJava/
+
+### PHP
+* http://rusticisoftware.github.io/TinCanPHP/
+
+### Objective C
+* https://github.com/RusticiSoftware/TinCanObjC
+
+## xAPI Example use cases
