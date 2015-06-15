@@ -1,7 +1,6 @@
 # xAPI Resources
 A curated list of xAPI resources
 
-
 ## xAPI Specification
 * xAPI Spec
   *  https://github.com/adlnet/xAPI-Spec
@@ -31,6 +30,7 @@ A curated list of xAPI resources
 ## Online Tools
 * xAPI Statement Validator
   * http://xapi-validator.elasticbeanstalk.com/
+  * http://yetanalytics.github.io/xapi-schema-demo/
 * ADL Statement Viewer
   * http://adlnet.github.io/xapi-statement-viewer
 * ADL xAPI Labs
@@ -39,6 +39,10 @@ A curated list of xAPI resources
   * http://adlnet.github.io/xapi-canteen/
 * SCROM to xAPI Wrapper
   * https://github.com/adlnet/SCORM-to-xAPI-Wrapper
+* xAPI Schema
+  * https://github.com/yetanalytics/xapi-schema
+* xAPI Statement to Plain English
+  * https://github.com/fugu13/georgetown
 
 ## xAPI Verbs
 * https://github.com/adlnet/xAPIVerbs
@@ -57,5 +61,3 @@ A curated list of xAPI resources
 
 ### Objective C
 * https://github.com/RusticiSoftware/TinCanObjC
-
-## xAPI Example use cases
