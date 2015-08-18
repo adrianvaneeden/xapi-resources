@@ -43,6 +43,10 @@ A curated list of xAPI resources
   * https://github.com/yetanalytics/xapi-schema
 * xAPI Statement to Plain English
   * https://github.com/fugu13/georgetown
+* xAPI Wordpress Plugin
+  * https://github.com/Saltbox/wordpress-lti-consumer
+* xAPI Tabulation Report
+  * https://github.com/Saltbox/domesday
 
 ## xAPI Verbs
 * https://github.com/adlnet/xAPIVerbs
